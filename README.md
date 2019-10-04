@@ -16,6 +16,14 @@ The following **required** functionality is complete:
 
 The most challenging part of this small project was getting familiar with auto layout
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/01cKnl7mQl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## License
 
     Copyright [2019] [castro cc]
